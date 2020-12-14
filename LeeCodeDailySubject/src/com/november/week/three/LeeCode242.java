@@ -37,4 +37,26 @@ public class LeeCode242 {
         }
         return true;
     }
+
+    /**
+     * 题解：只需要使用一个数组来进行存储，遍历第二个字符串的时候，在第一个存储的基础上进行-1
+     * @param s
+     * @param t
+     * @return
+     */
+    public boolean isAnagram1(String s, String t) {
+        int[] table = new int[26];
+        for (char c : s.toCharArray()) {
+            table[c - 'a']++;
+        }
+        for (char c : t.toCharArray()) {
+            table[c - 'a']--;
+        }
+        for (int num : table) {
+            if (num != 0) {
+                return false;
+            }
+        }
+        return true;
+    }
 }

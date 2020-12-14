@@ -35,6 +35,32 @@ public class LeeCode328 {
         return head;
     }
 
+    public ListNode oddEvenList1(ListNode head) {
+        // 暴力破解
+        List<ListNode> oddNodes = new ArrayList<>();
+        List<ListNode> evenNodes = new ArrayList<>();
+        ListNode dummyNode = head;
+        while (dummyNode != null) {
+            oddNodes.add(dummyNode);
+            dummyNode = dummyNode.next;
+            if (dummyNode != null) {
+                evenNodes.add(dummyNode);
+                dummyNode = dummyNode.next;
+            }
+        }
+        ListNode preNode = new ListNode();
+        dummyNode = preNode.next;
+        for (ListNode node : oddNodes) {
+            dummyNode.next = node;
+            dummyNode = dummyNode.next;
+        }
+        for (ListNode node : evenNodes) {
+            dummyNode.next = node;
+            dummyNode = dummyNode.next;
+        }
+        return dummyNode.next.next;
+    }
+
     public static void main(String[] args) {
         LeeCode328 leeCode328 = new LeeCode328();
         leeCode328.oddEvenList(ListNode.getListNode(new int[]{1,2,3,4,5}));
