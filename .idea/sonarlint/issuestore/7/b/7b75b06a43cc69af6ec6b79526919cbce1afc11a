@@ -1,0 +1,13 @@
+
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(åÏ”îıÿÿÿÿ8›…¾Ú”/
+>
+java:S1659+"!Declare "ans" on a separate line.(–ó‰à8”ë÷”/
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(æàßÍûÿÿÿÿ8÷ÙÀÚ”/
+V
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ï·ÏÉ8›…¾Ú”/
+@
+java:S1659D"#Declare "right" on a separate line.(Î¹×8¢¿›ø”/
+J	java:S108")Either remove or fill this block of code.(÷¬ñíùÿÿÿÿ8›…¾Ú”/
+D
+java:S1659B""Declare "len2" on a separate line.(¶µ„õşÿÿÿÿ8ä½ù÷”/

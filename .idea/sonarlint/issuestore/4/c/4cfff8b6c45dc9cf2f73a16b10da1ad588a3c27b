@@ -1,0 +1,16 @@
+
+T
+java:S18549"7Remove this useless assignment to local variable "res".(ÃŠÿè8ñêÙ›/
+u	java:S135 "YReduce the total number of break and continue statements in this loop to use at most one.(û·õ·8²‚ßÙ›/
+E
+java:S14819"(Remove this unused "res" local variable.(ÃŠÿè8ñêÙ›/
+L
+java:S1481:"*Remove this unused "queue" local variable.(ŞøŒÕøÿÿÿÿ8ÌÙîÙ›/
+P
+java:S11727".Remove this unused method parameter "servers".(êıòøûÿÿÿÿ8³¾àÙ›/
+[
+java:S1854:"9Remove this useless assignment to local variable "queue".(ŞøŒÕøÿÿÿÿ8ÌÙîÙ›/
+C
+java:S1168<"&Return an empty array instead of null.(¥¹ï8ñ÷¹€œ/
+J
+java:S1125"(Remove the literal "true" boolean value.(Æ­§üüÿÿÿÿ8·ù´Ù›/

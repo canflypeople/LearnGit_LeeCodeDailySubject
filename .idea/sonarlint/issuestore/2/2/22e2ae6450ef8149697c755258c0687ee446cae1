@@ -1,0 +1,9 @@
+
+H
+java:S1128"-Remove this unused import 'javafx.util.Pair'.(û­ûºüÿÿÿÿ
+m
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(úŽíÀÿÿÿÿÿ
+f
+java:S1149/"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Êí‹Û
+o
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(Êí‹Û

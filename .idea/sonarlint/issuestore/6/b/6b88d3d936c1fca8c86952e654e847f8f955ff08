@@ -1,0 +1,7 @@
+
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(µ­““ýÿÿÿÿ8ÚÓÅŽ†/
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8ˆçžŽ†/
+H
+java:S1659"&Declare "maxRange" on a separate line.(£€™’ýÿÿÿÿ8ïË³Ž†/

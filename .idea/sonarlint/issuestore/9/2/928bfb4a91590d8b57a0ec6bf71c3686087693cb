@@ -1,0 +1,32 @@
+
+T	java:S106K"9Replace this use of System.out or System.err by a logger.(ªƒ‰t8œå”ë¤/
+E
+java:S11250"(Remove the literal "true" boolean value.(¯Ò€8œå”ë¤/
+;
+java:S1659V"Declare "n" on a separate line.(„ãøi8²ñ»ì¤/
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8²ñ»ì¤/
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(ãş¿ßşÿÿÿÿ8²ñ»ì¤/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÍŒĞ°ÿÿÿÿÿ8ÿ„öé¤/
+^	java:S125Ş"<This block of commented-out lines of code should be removed.(¡µÚÀùÿÿÿÿ8ôÏÀì¤/
+E
+java:S1125)"(Remove the literal "true" boolean value.(¯Ò€8¦¶éé¤/
+^	java:S125³"<This block of commented-out lines of code should be removed.(¿¡«ıÿÿÿÿ8–âÿ¢§/
+E
+java:S11255"(Remove the literal "true" boolean value.(¯Ò€8£Øâé¤/
+E
+java:S1125;"(Remove the literal "true" boolean value.(¯Ò€8ÌËˆê¤/
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(ÃÍ¥Ÿûÿÿÿÿ8²ñ»ì¤/
+t
+java:S3776n"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.( óİ÷üÿÿÿÿ8ò‘½ì¤/
+9
+java:S3626“"Remove this redundant jump.(ûÁİ…8¸éš®/
+K
+java:S1659y".Declare "dependentService" on a separate line.(³õÑ˜8ò‘½ì¤/
+h	java:S128A"LEnd this switch case with an unconditional break, return or throw statement.(ŠÖ­¼8œå”ë¤/
+V	java:S106’"9Replace this use of System.out or System.err by a logger.(£³±ç8ò‘½ì¤/
+W
+java:S1118":Add a private constructor to hide the implicit public one.(àªÅö8ú¬½ì¤/
+[
+java:S1481 "8Remove this unused "negativeNumberCount" local variable.(‡½Şøøÿÿÿÿ8×£¯¦/
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(Ì¥şÿÿÿÿ8¸éš®/

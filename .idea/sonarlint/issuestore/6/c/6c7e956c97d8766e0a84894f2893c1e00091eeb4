@@ -1,0 +1,8 @@
+
+Q
+java:S19059"/Remove this unnecessary cast to "SelectionKey".(à®²®øÿÿÿÿ8î¡×óŒ/
+h
+java:S2095#"KUse try-with-resources or close this "SocketChannel" in a "finally" clause.(½»á³8î¡×óŒ/
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(»àÈÑùÿÿÿÿ8î¡×óŒ/
+D
+java:S21894""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8î¡×óŒ/

@@ -1,0 +1,9 @@
+
+m
+java:S1149 "PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(äö˜­8®‘Ëî…/
+>
+java:S1116,"Remove this empty statement.(ëæëúÿÿÿÿ8œŸ†/
+k
+java:S2272+"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(şÿøë8ƒâçæ…/
+m
+java:S1149 "PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(äö˜­8¯‘Ëî…/

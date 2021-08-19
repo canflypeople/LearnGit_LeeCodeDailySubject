@@ -1,0 +1,14 @@
+
+Q
+java:S3740/"/Provide the parametrized type for this generic.(ÜÒÈ‡ùÿÿÿÿ8®¡…/
+x	java:S116"WRename this field "TIME_TO_LIVE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õá¢Àüÿÿÿÿ8¬¥æ€…/
+E
+java:S1604!"(Make this anonymous inner class a lambda(¬œë•8””©…/
+L
+java:S37409"/Provide the parametrized type for this generic.(ƒŸóÅ8ÊÆ®…/
+m
+java:S1206["PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8Ï¯®‚…/
+<
+java:S2097["Add a type test to this method.(ÜÑã8˜È°‚…/
+c
+java:S2259\"AA "NullPointerException" could be thrown; "obj" is nullable here.(°­Î¸ÿÿÿÿÿ8óÊ³‚…/

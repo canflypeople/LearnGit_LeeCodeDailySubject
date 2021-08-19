@@ -1,0 +1,29 @@
+
+X	java:S125|"<This block of commented-out lines of code should be removed.(òŠ¸”8®Ïì·/
+T
+java:S18542"7Remove this useless assignment to local variable "ans".(´—Õ¬8‹ï³˜/
+^	java:S125İ"<This block of commented-out lines of code should be removed.(§Ä¸úÿÿÿÿ8ÚÔçÌ/
+n	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ş“æ8’æ–Ş/
+F
+java:S1659¢"#Declare "right" on a separate line.(ÀúÈüÿÿÿÿ8ş¢ğ·/
+C
+java:S1172"&Remove these unused method parameters.(ºû­ö8‹ï³˜/
+a
+java:S33585"DExtract this nested ternary operation into an independent statement.(ö“û8¶‡Ø˜/
+V
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8±”İ¼/
+E
+java:S14812"(Remove this unused "ans" local variable.(´—Õ¬8‹ï³˜/
+J
+java:S1481<"-Remove this unused "currTime" local variable.(¤ ÒÆ8­³å˜/
+Q
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8±”İ¼/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(øıºÎøÿÿÿÿ8î€Îö/
+C
+java:S1168="&Return an empty array instead of null.(¥¹ï8­³å˜/
+{
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÁˆÒŸøÿÿÿÿ8¶‡Ø˜/
+A
+java:S1659Â"#Declare "right" on a separate line.(àü¥°8‡ÿüŞ/
+{	java:S135£"YReduce the total number of break and continue statements in this loop to use at most one.(‰àÀÿÿÿÿÿÿ8 Ùè¸/

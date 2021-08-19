@@ -1,0 +1,17 @@
+
+5
+java:S1659J"Declare "x" on a separate line.(ğüâ‘
+M
+java:S1172G"+Remove this unused method parameter "args".(üÎÆıÿÿÿÿ8Û¨ìë¤/
+T	java:S106Q"9Replace this use of System.out or System.err by a logger.(ü„ê!8Û¨ìë¤/
+e
+java:S18588"C"substring" returns a string, there's no need to call "toString()".(ûÉÆöşÿÿÿÿ8è¼ğë¤/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘8ºÍæë¤/
+M
+java:S1172="+Remove this unused method parameter "args".(À»Áùÿÿÿÿ8Û¨ìë¤/
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(­ –8Û¨ìë¤/
+K
+java:S1659".Declare "dependentService" on a separate line.(³õÑ˜8Öë¤/
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ûÉÆöşÿÿÿÿ8è¼ğë¤/
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(£³±ç8ù¤ğë¤/

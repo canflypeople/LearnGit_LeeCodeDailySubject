@@ -1,0 +1,19 @@
+
+w
+java:S1450"URemove the "bottom" field and declare it as a local variable in the relevant methods.(¢•ˆìøÿÿÿÿ8Ú©«ƒ/
+D
+java:S1659""Declare "left" on a separate line.(¢•ˆìøÿÿÿÿ8ú¨÷ªƒ/
+F
+java:S1659"$Declare "bottom" on a separate line.(¢•ˆìøÿÿÿÿ8Ú©«ƒ/
+E
+java:S1659"#Declare "right" on a separate line.(¢•ˆìøÿÿÿÿ8ú¨÷ªƒ/
+t
+java:S1450"RRemove the "top" field and declare it as a local variable in the relevant methods.(¢•ˆìøÿÿÿÿ8Ú©«ƒ/
+u
+java:S1450"SRemove the "left" field and declare it as a local variable in the relevant methods.(¢•ˆìøÿÿÿÿ8Õœûªƒ/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ÿ‹Ûøÿÿÿÿ8åî¿«ƒ/
+v
+java:S1450"TRemove the "right" field and declare it as a local variable in the relevant methods.(¢•ˆìøÿÿÿÿ8ïîûªƒ/
+A
+java:S1659$"Declare "n" on a separate line.(½ªÌ•ÿÿÿÿÿ8Õœûªƒ/

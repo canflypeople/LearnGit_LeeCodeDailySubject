@@ -1,0 +1,16 @@
+
+X	java:S1254"<This block of commented-out lines of code should be removed.(Õž‚Ñ8ØÀ®ú/
+B
+java:S1659" Declare "n1" on a separate line.(ªú¢íøÿÿÿÿ8º­Áú/
+[
+java:S3516"9Refactor this method to not always return the same value.(¤•†ýÿÿÿÿ8©•³ú/
+ž
+java:S1186G"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8Ó¬½ú/
+B
+java:S1659" Declare "n2" on a separate line.(¤¬°Êùÿÿÿÿ8ÌƒÅú/
+A
+java:S16591"Declare "n" on a separate line.(—Öœòùÿÿÿÿ8îì¤ú/
+J
+java:S1172<"(Remove this unused method parameter "s".(Ì’ÉÇþÿÿÿÿ8¬ßÉ¢ž/
+V
+java:S3400>"9Remove this method and declare a constant for this value.(”·³›8¬ßÉ¢ž/

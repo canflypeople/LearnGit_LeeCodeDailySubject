@@ -1,0 +1,19 @@
+
+m
+java:S2095"QUse try-with-resources or close this "ServerSocketChannel" in a "finally" clause.(„Ìõa8ªÈ…ğŒ/
+W
+java:S1854!":Remove this useless assignment to local variable "select".(¾Ñ¬Î8¥É“ğŒ/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(¶ÿ¹¤8£ã±ğŒ/
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(İ´í˜üÿÿÿÿ8“Ÿ±ğŒ/
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8¥É“ğŒ/
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(†³÷°8šÇšğŒ/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(¥•ı€8¥É“ğŒ/
+X
+java:S1854F"6Remove this useless assignment to local variable "sc".(™ŸØúúÿÿÿÿ8“Ÿ±ğŒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‘ˆËë8¥É“ğŒ/
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(â‰•8“Ÿ±ğŒ/
+H
+java:S1481!"+Remove this unused "select" local variable.(¾Ñ¬Î8¥É“ğŒ/
+I
+java:S1481F"'Remove this unused "sc" local variable.(™ŸØúúÿÿÿÿ8“Ÿ±ğŒ/

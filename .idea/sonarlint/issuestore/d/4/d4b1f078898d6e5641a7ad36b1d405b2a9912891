@@ -1,0 +1,16 @@
+
+o
+java:S3776A"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(§à—8Ã•Ô•…/
+z	java:S135\"YReduce the total number of break and continue statements in this loop to use at most one.(…¬å¿ıÿÿÿÿ8ÏËò•…/
+{
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘âÚüşÿÿÿÿ8®Å¸•…/
+v
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ş·8¤º•…/
+U
+java:S3878"8Remove this array creation and simply pass the elements.(”ºó8§Ü€…/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ºó8§Ü€…/
+W	java:S1252"<This block of commented-out lines of code should be removed.(‰ÀßI8Ê÷§•…/
+X	java:S125"<This block of commented-out lines of code should be removed.(âË©¯8ÜİÏ€…/
+z	java:S135H"YReduce the total number of break and continue statements in this loop to use at most one.(…¬å¿ıÿÿÿÿ8öÜó•…/
+]	java:S125|"<This block of commented-out lines of code should be removed.(£¶¬ìüÿÿÿÿ8çìî–…/

@@ -1,0 +1,22 @@
+
+‰
+java:S1130I"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8’„³ˆ/
+8
+java:S3626D"Remove this redundant jump.(ÉŠ©ƒ8®÷²ˆ/
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(¢ºÉ‘ûÿÿÿÿ8ŠÛº²ˆ/
+{
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùåàÇûÿÿÿÿ8 Û¥³ˆ/
+v
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ûí‚8 Û¥³ˆ/
+]
+java:S1128"@Remove this unused import 'com.com.code2021.january.LeeCode978'.(—ÕË³8’„³ˆ/
+v
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼®½™8üú²ˆ/
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(ãÆØîùÿÿÿÿ8ß´­²ˆ/
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(ì­‘êüÿÿÿÿ8òî©²ˆ/
+U	java:S106W"9Replace this use of System.out or System.err by a logger.(™³ô8Û¼¨²ˆ/
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(èØÿàùÿÿÿÿ8öøª²ˆ/
+u
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÖ±c8 Û¥³ˆ/
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(êÜÍü8 ˆ´²ˆ/
+X	java:S125L"<This block of commented-out lines of code should be removed.(ê¥„õ8’„³ˆ/

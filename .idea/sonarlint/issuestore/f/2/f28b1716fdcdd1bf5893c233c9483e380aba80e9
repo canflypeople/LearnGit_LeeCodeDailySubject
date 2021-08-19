@@ -1,0 +1,14 @@
+
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ôşò±úÿÿÿÿ8şŸÜ¤/
+X	java:S125A"<This block of commented-out lines of code should be removed.(¢—ºù8ÿ»¶Û¤/
+A
+java:S1659"Declare "n" on a separate line.(¼©æşÿÿÿÿ8ÓûÓÚ¤/
+[
+java:S1854">Remove this useless assignment to local variable "storeyList".(ªé„ 8ËÁÛ¤/
+C
+java:S1659"&Declare "rightCol" on a separate line.(ºÌÏ¼8°¿ÏÛ¤/
+L
+java:S1481"/Remove this unused "storeyList" local variable.(ªé„ 8ËÁÛ¤/
+G
+java:S1659"%Declare "highRow" on a separate line.(ºô†øÿÿÿÿ8Ü°ÊÛ¤/

@@ -1,0 +1,13 @@
+
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(£Óø8ı™¨† /
+]	java:S125g"<This block of commented-out lines of code should be removed.(Ï‚„”ùÿÿÿÿ8÷Ø† /
+u
+java:S1602""SRemove useless curly braces around statement and then remove useless return keyword(¢Í›Òüÿÿÿÿ8…„† /
+t
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Şô¬óûÿÿÿÿ8…„† /
+[
+java:S3518Y"9Make sure "sum" can't be zero before doing this division.(»¢œışÿÿÿÿ8Î³Á† /
+a
+java:S3358#"DExtract this nested ternary operation into an independent statement.(•íİé8…„† /
+H
+java:S1659%"&Declare "preRight" on a separate line.(û…âùÿÿÿÿ8Ù©õ… /

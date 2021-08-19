@@ -1,0 +1,43 @@
+
+V	java:S106ê"9Replace this use of System.out or System.err by a logger.(ñâˆè8”ó¼¬/
+J
+java:S3599û",Use another way to initialize this instance.(õ«ïã8û÷ğŒ¬/
+^	java:S125¥"<This block of commented-out lines of code should be removed.(‡àÃİøÿÿÿÿ8Ü¡ÓÓª/
+F
+java:S1481ò")Remove this unused "left" local variable.(¡ƒ‘8Ô”Âö°/
+G
+java:S1481ò"*Remove this unused "right" local variable.(¡ƒ‘8Ô”Âö°/
+U	java:S106İ"9Replace this use of System.out or System.err by a logger.(ƒÚáB8ù¹¦¬/
+U
+java:S1854ò"8Remove this useless assignment to local variable "left".(¡ƒ‘8Ô”Âö°/
+J
+java:S3599ò",Use another way to initialize this instance.(×÷Ğ8ı­•¬/
+E
+java:S14810"(Remove this unused "res" local variable.(ıœºë8¤×úı¥/
+V
+java:S1854ò"9Remove this useless assignment to local variable "right".(¡ƒ‘8Ô”Âö°/
+[
+java:S1117"8Rename "set" which hides the field declared at line 379.(¡ÌË­üÿÿÿÿ8¥Í¶¹®/
+H
+java:S1172k"+Remove this unused method parameter "nums".(‹œÍ©8ÏË°ş§/
+|
+java:S1171ó"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ı­•¬/
+|
+java:S1171ü"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8û÷ğŒ¬/
+M
+java:S1481Ç"*Remove this unused "isOdd" local variable.(ÑŒìÇüÿÿÿÿ8­­ªÿ®/
+E
+java:S1659Ø""Declare "high" on a separate line.(Òˆ·‚ıÿÿÿÿ8Ü¡ÓÓª/
+A
+java:S1659Ğ"#Declare "right" on a separate line.(µÁ¹’8ŸÓ¡Œ¬/
+C
+java:S1168l"&Return an empty array instead of null.(¥¹ï8ÏË°ş§/
+@
+java:S1659ò"#Declare "right" on a separate line.(¡ƒ‘8Ô”Âö°/
+e
+java:S2175."CA "Map<Integer, Set>" cannot contain a "int[]" in a "Integer" type.(–Âœ²ıÿÿÿÿ8úçôı¥/
+H
+java:S1172%"&Remove these unused method parameters.(•ıù’ûÿÿÿÿ8«¼ïı¥/
+V	java:S106€"9Replace this use of System.out or System.err by a logger.(·Õ½Ú8åà……±/
+\
+java:S1854Ç"9Remove this useless assignment to local variable "isOdd".(ÑŒìÇüÿÿÿÿ8­­ªÿ®/

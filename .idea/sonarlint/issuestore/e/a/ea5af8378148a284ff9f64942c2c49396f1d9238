@@ -1,0 +1,13 @@
+
+E
+java:S1659"(Declare "zeroMaxLen" on a separate line.(¾œ™Ë8ˆÔ¸™/
+@
+java:S1659K"#Declare "right" on a separate line.(²ÇÊ¶8‰ÜÀ¹™/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(î€Ø¤şÿÿÿÿ8Óûİ¸™/
+F
+java:S1659")Declare "zeroCurrLen" on a separate line.(Ó¼ªâ8ˆÔ¸™/
+F
+java:S1125q")Remove the literal "false" boolean value.(Äªü†8ìèé¹™/
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(°¥–8ÔŞß¸™/
+Y	java:S125€"<This block of commented-out lines of code should be removed.(£±€Í8ş¡÷¹™/
